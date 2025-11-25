@@ -40,4 +40,5 @@ d_Shruthi/
 3. View results in `d_report.pdf` and output images
 
 ### Contact
-[Your Contact Information]
+
+shruthiragav.777@gmail.com
